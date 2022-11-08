@@ -10,4 +10,9 @@
 - vertical scrollable card
 
 # you can learn from youtube video also
-https://youtu.be/zncE5SKPm4U
+# Horizontal and Vertical Scrollable Card Design Android Studio | Mobile application development.
+  https://youtu.be/jk1WllnPsFw
+  
+# image slider   
+  https://youtu.be/zncE5SKPm4U
+
